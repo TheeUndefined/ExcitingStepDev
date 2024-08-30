@@ -1,0 +1,68 @@
+#urban-kreative-web-flyer {
+  /* background-color: #FFD700; */
+  color: aliceblue;
+  
+}
+.sales-query-solution>.sales-query {
+  font-family: "Sevillana", cursive;
+  font-size: 5em;
+  color: #ffd700;
+  text-align: center;
+}
+.sales-query-solution>.sales-query span {
+  text-decoration-line: underline;
+  font-family: "Roboto Mono", monospace;
+  color: #ffae42;
+  }
+  .sales-query-solution>.sales-solution {
+    font-family: "Sevillana", cursive;
+    font-size: 7em;
+    color: rgb(255, 0, 255);
+    text-align: center;
+  }
+  .sales-query-solution>.urban-kreative-services {
+    color: #ffd700;
+    font-size: 1.3em;
+  }
+  .sales-query-solution>.urban-kreative-services table {
+    margin-top: px;
+}
+.sales-query-solution>.urban-kreative-services-two {
+  color: #ffd700;
+  font-size: 1.3em;
+}
+.sales-query-solution>.sales-action {
+  font-family: "Sevillana", cursive;
+  font-size: 4em;
+  margin-top: 30px;
+  text-align: center;
+  color: #ff3333;
+}
+.sales-query-solution>.urban-kreative-contact {
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 30px;
+  line-height: 20px;
+}
+.sales-query-solution>.urban-kreative-contact a{
+  color: #33b0ff;
+  text-decoration: none;
+}
+.sales-query-solution>.urban-kreative-contact i{
+  font-size: 1.5em;
+  align-items: center;
+  line-height: 40px;
+}
+.sales-query-solution>.urban-kreative-business {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 20px;
+}
+.sales-query-solution>.urban-kreative-business {
+  font-size: 1.5em;
+  align-items: center;
+  line-height: 40px;
+}
+
+
